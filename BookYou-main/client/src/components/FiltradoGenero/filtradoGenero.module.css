@@ -1,0 +1,46 @@
+
+  
+  .cardConteiner{
+    gap:30px;
+    display: flex;
+    margin-top: 5rem;
+    margin-left: -25rem;
+    flex-wrap: wrap;
+  
+  }
+  .mover {
+   
+    display: flex;
+    margin-top: 50px;
+}
+
+
+.mover1 {
+  display: flex;
+  position: absolute;
+  top: 80px;
+  left: 250px;
+}
+
+.todo {
+  position: absolute;
+  top: 450px;
+  left: 600px;
+  display: flex;
+}
+
+.p{
+  margin-top: 5rem;
+  margin-left: -25rem;
+  font-size: 1.2em;
+  font-style: italic;
+  color: white;
+}
+
+.paginado {
+  width: 500px;
+  position: absolute;
+    top: 500px;
+    left: 600px;
+  display: flex;
+}

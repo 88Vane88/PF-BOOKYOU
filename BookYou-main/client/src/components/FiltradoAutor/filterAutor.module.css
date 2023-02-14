@@ -1,0 +1,41 @@
+.mover {
+   
+  display: flex;
+  margin-top: 50px;
+  
+}
+
+.svgConteiner{
+  position: absolute;
+  width: 40px;
+  margin-top: 30px ;
+  margin-left: 31rem;
+  color: #010326
+}
+
+
+
+.svg{
+  margin-left: 10px;
+}
+
+.mover1 {
+  display: flex;
+  position: absolute;
+  top: 80px;
+  left: 250px;
+}
+
+.p {
+  color: #010326;
+  font-size: 1.2em;
+  margin-top: 10%;
+  font-style: italic;
+}
+.paginado {
+  width: 500px;
+  position: absolute;
+    top: 500px;
+    left: 600px;
+  display: flex;
+}
